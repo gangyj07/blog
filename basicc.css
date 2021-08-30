@@ -1,0 +1,33 @@
+a {
+  text-decoration-line: none;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+.all:hover {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+.all {
+  font-size: 20px;
+  margin-right: 20px;
+  margin-top: 15px;
+  float: right;
+}
+div {
+  background-color: white;
+  height: 60px;
+  padding-top: 10px;
+  padding-left: 25px;
+  padding-right: 20px;
+}
+body {
+  margin: 0px;
+  background-color: blanchedalmond;
+  background-image: url(cat.png);
+  background-repeat: no-repeat;
+  background-position: 50% -30%;
+}
